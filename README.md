@@ -63,16 +63,4 @@ Order of feature importance:
 - Italian cuisines on menu
 - Ice Cream available on menu
 
-TRAINING ACCURACY: 62.79%
-TESTING ACCURACY: 62.5%
-
-- Further accuracy indicators were calculated:
-the true positive rate for "1" (FAIR) was the highest - 74.9%
-
-TPR: [0.26315789 0.74885845 0.52604167]
-PPV: [0.71428571 0.62121212 0.63522013]
-FPR: [0.00486618 0.47393365 0.24369748]
-FNR: [0.73684211 0.25114155 0.47395833]
-CER: [0.0372093  0.36046512 0.34651163]
-ACC: [0.9627907  0.63953488 0.65348837]
 
